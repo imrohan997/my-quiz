@@ -1,5 +1,5 @@
 
-## My Quiz
+## CLI app "My Quiz"
 > 
 
 > This quiz is about myself
